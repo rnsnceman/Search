@@ -1,9 +1,9 @@
-#Google Search Mockup
+# Google Search Mockup
 
-###Preview
+### Preview
 ![Preview Image](/preview_image.png)
 
-###Features
+### Features
 - Google Search
 - Advanced Google Search
 - Google Image Search
